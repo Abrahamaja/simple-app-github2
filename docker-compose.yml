@@ -1,5 +1,5 @@
 services:
   webserver:
-    image: ghcr.io/abrahamaja/nginx-abrahamklosesawedu
+    image: ghcr.io/Abrahamaja/nginx-abrahamklosesawedu
     ports:
       - "8080:80"
